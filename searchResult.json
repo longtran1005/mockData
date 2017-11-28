@@ -1,17 +1,17 @@
 {
     "results": [
         {
-            "type": 1, 
+            "type": "FAQ's", 
             "question": "How do I open a current account online?",
             "answer": "Our new online Current Account application is simple, fast and you get your card send out tomorrow! You will need a form of ID, access to a webcam during the application and a few details you should already know."
         },
         {
-            "type": 1,
+            "type": "FAQ's",
             "question": "How do I open a savings account?",
             "answer": "Just pop into a store or apply online. If you're an existing customer you can open an account by logging in to internet banking or by calling us on 0345 08 08 500. What you need to bring with you if you come into store."
         },
         {
-            "type": 1,
+            "type": "FAQ's",
             "question": "How do I open a cash account?",
             "answer": "Manage your everyday spending without the complications of Direct Debits and standing orders. Just pop into the store – no appointment needed. We’ll even print your bank card there and then."
         }
