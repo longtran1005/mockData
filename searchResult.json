@@ -14,6 +14,31 @@
             "type": "FAQ's",
             "question": "How do I open a cash account?",
             "answer": "Manage your everyday spending without the complications of Direct Debits and standing orders. Just pop into the store – no appointment needed. We’ll even print your bank card there and then."
+        },
+        {
+            "type": "FAQ's",
+            "question": "How do I open a kids account?",
+            "answer": "It's never too early to start saving. If you've got a special purchase in mind, or you want to start putting money away for an upcoming holiday or life-changing trip, open a Young Savers account and watch your money grow."
+        },
+        {
+            "type": "FAQ's",
+            "question": "How do I open a fixed term savings account?",
+            "answer": "Choose how long you want to put your money away for – 3 months, 6 months, 1 year, 18 months or 3 years. You’ll need another Metro Bank account for the interest from your Fixed Term Savings Account to be paid into."
+        },
+        {
+            "type": "FAQ's",
+            "question": "How do I open a current account online?",
+            "answer": "Our new online Current Account application is simple, fast and you get your card send out tomorrow! You will need a form of ID, access to a webcam during the application and a few details you should already know."
+        },
+        {
+            "type": "GUIDES",
+            "question": "How to open a Safe Deposit Box",
+            "answer": ". You can pick from 5 sizes of Safe Deposit Box to suit your needs, and you can have access to your valuables whenever you need to. Rent a box for the long or short term – it’s up to you. Just choose which store you want to have your box in and reserve online."
+        },
+        {
+            "type": "GUIDES",
+            "question": "How to open a savings account",
+            "answer": "Our new online Current Account application is simple, fast and you get your card send out tomorrow! You will need a form of ID, access to a webcam during the application and a few details you should already know."
         }
     ]
 }
